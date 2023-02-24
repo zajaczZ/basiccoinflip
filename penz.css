@@ -1,0 +1,42 @@
+#tartalom{
+    margin-left: 620px;
+  position: absolute;
+  top: 10%;
+
+  
+  background-image: linear-gradient(white,gray);
+  height: 800px;
+}
+body{
+    background-image: url(dob.png);
+}
+#gomb1{
+    margin-left: 50px;
+    background-color: gold;
+    font-family:  serif;
+    border-radius: 50%;
+    height: auto;
+    width: 50px;
+
+}
+#gomb2{
+    margin-left: 90px;
+    background-color: gold;
+    font-family:  serif;
+    border-radius: 50%;
+    height: auto;
+    width: 50px;
+    
+}
+#win{
+    color: green;
+    font-size: large;
+}
+#lose{
+    color: red;
+    font-size: large;
+}
+#gomb3{
+   margin-left: 90px;
+   
+}
